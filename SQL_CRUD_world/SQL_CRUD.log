@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\source\repos\SQL_CRUD\main.cpp(188,29): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+D:\source\repos\SQL_CRUD\main.cpp(223,29): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+  Trwa generowanie kodu
+  189 of 214 functions (88.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  SQL_CRUD.vcxproj -> D:\source\repos\SQL_CRUD\x64\Release\SQL_CRUD.exe
